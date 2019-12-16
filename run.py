@@ -15,7 +15,7 @@ etree = ht.etree
 sessionCenter = requests.session()
 # 学号 5120176308
 userName = ''
-# 密码 zz.582217143
+# 密码 XXXXXXXX
 userPass = ''
 
 
